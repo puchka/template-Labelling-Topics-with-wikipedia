@@ -193,7 +193,7 @@ curl -H "Content-Type: application/json" -d '{"topics": [["apple","iphone","safa
 ```
 
 # Relative Issues
-For any problem, you can create issue here and for merging new changes make pull request. For any further query you can communicate on bansari.jan93@gmail.com
+For any problem, you can create issue here and for merging new changes make pull request. For any further query you can communicate on bansari.jan93@gmail.com or bansari.shah@coviam.com
 
 ## License
 
